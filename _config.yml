@@ -1,1 +1,9 @@
 theme: jekyll-theme-midnight
+
+# staticman (comments) configuration
+staticman_url: https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
+
+defaults:
+  # Post defaults
+    values:
+      comments: true
