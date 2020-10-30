@@ -1,4 +1,5 @@
 // Static comments
+@import "comment-styles";
 // from: https://github.com/eduardoboucas/popcorn/blob/gh-pages/js/main.js 
 (function ($) {
   var $comments = $('.js-comments');
