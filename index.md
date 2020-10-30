@@ -3,6 +3,6 @@ layout: post
 title: Adding Staticman Comments
 ---
 
-hello
+hellof
 
 {% include comments.html %}
