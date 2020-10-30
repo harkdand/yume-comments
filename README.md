@@ -1,5 +1,5 @@
-# yume-comments
-
-{% if page.comments == true %}
-  {% include comments.html %}
-{% endif %}
+---
+layout: post
+slug: comments-test
+comments: true
+---
