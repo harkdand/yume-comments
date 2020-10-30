@@ -1,7 +1,7 @@
 theme: jekyll-theme-midnight
 
 # staticman (comments) configuration
-staticman_url: https://yume-red.herokuapp.com/v2/entry/harkdand/yume-comments/master/comments
+staticman_url: https://yume-red.herokuapp.com/v2/entry/harkdand/yume-comments/master
 
 defaults:
   # Post defaults
